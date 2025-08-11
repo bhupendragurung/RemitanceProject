@@ -1,0 +1,76 @@
+# Visual Studio cache/options folders
+.vs/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# Rider project files
+.idea/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Visual Studio temporary files
+*.cache
+*.ilk
+*.log
+*.tlog
+*.obj
+*.pch
+*.pdb
+*.idb
+*.class
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotCover files
+*.dotCover
+
+# Resharper files
+_ReSharper*/
+
+# StyleCop files
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*.dll
+*.exe
+*.appx
+*.appxbundle
+*.appxupload
+
+# Publish directory
+publish/
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Others
+*.dbmdl
+
+# Node modules (if using Node inside your project)
+node_modules/
+
+# VS Code settings folder (optional)
+.vscode/
+
+# Mac OS files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db

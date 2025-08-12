@@ -1,0 +1,6 @@
+@RemittanceApp.API_HostAddress = http://localhost:5105
+
+GET {{RemittanceApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
